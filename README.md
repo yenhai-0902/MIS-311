@@ -119,7 +119,7 @@ Fruits, Stationery, and Beverages are the main revenue-driving categories. The b
 
 ## 4. Overall conclusion:
 
-In conclusion, the analysis shows that member customers, chicago and new york, and the fruits category are the strongest contributors to business performance. member customers spent more per transaction than normal customers, while chicago and new york generated the highest total sales value. in terms of product category, fruits contributed the largest share of total revenue.
+In conclusion, the analysis shows that member customers, chicago and new york, and the fruits category are the strongest contributors to business performance. member customers spent more per transaction than normal customers, while chicago and new york generated the highest total sales value. In terms of product category, fruits contributed the largest share of total revenue.
 
 These findings suggest that the business should strengthen its membership program, maintain strong marketing and inventory strategies in high-performing cities, and prioritize key product categories such as fruits, stationery, and beverages. lower-performing areas such as los angeles, household, and personal care should also be reviewed to improve future sales performance.
 Fruits generated the highest revenue among all product categories, indicating that it was the most profitable and in-demand category.
