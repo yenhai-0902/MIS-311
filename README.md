@@ -1,12 +1,12 @@
 # MIS-311
 Introduction to Business Analytics
-## **Context and Objective:**  
+## 1. **Data Overview:**  
 The analysis focused on identifying sales patterns and customer purchasing behaviour in a supermarket environment. The dataset includes variables such as product category, customer type, quantity sold, city, and total sales revenue.
 
 ---
 
 ## **Key Variables:**  
-
+This dataset includes 253 rows and 8 columns of data. The variables include:
 - **Sale_id (object):** Unique identifier  
 - **Branch (object):** Brand of the supermarket  
 - **City (object):** City of the supermarket  
@@ -18,8 +18,7 @@ The analysis focused on identifying sales patterns and customer purchasing behav
 
 ---
 
-## **Data Cleaning:**  
-Missing values were identified and removed to improve data accuracy and consistency.
+## 2. **Data Cleaning:**  
 
 ---
 
